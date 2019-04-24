@@ -1,3 +1,7 @@
+Họ và tên : Nguyễn Anh Tú
+Mã số SV : 16022417
+
+
 Báo cáo test whitebox Code CocktailShakerSort ( hàm sort ) 
 Link github: https://github.com/TheAlgorithms/Java/blob/master/Sorts/CocktailShakerSort.java
 
